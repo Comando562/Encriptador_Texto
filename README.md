@@ -1,5 +1,5 @@
 ### Bienvenido al Encriptador de Texto
-
+@Oracle #Oracle
 ## ⚙️ Herramientas utilizadas de Desarrollo
 - Javascript
 - CSS y HTML
