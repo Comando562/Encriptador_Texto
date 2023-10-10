@@ -6,7 +6,7 @@
 - Visual Studio Code
 
 
-## :tw-264a: Instrucciones de uso
+##  Instrucciones de uso
 1. Descargar el archivo Encriptador de Moneda
 2. Ejecutar el archivo index.html
 3. Seleccionar que tipo de accion que  desea realizar:
